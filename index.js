@@ -1,4 +1,5 @@
 'use strict';
+
 class Graph {
     constructor(fileName) {
         let fs = require('fs');
